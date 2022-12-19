@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭🌱 I’m currently learning C#<br>💬 Ask me about Lua<br>
+🔭🌱 I’m currently learning Python<br>💬 Ask me about Lua<br>
 
 
 ## 🌐 Socials:
